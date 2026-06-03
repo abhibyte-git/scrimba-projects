@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Project Live](https://github.com/abhibyte-git/scrimba/unitconvertor)
+👉 [Project Live](https://abhibyte-git.github.io/scrimba/unitconvertor/)
 
 ---
 
@@ -37,16 +37,3 @@
 
 - [Scrimba](https://scrimba.com) — Shoutout to the platform
 - Still learning — open to feedback and suggestions
-
-## 📂 How to Run Locally
-
-```bash
-# Clone the repository
-git clone [https://delta-r-git.github.io/scrimba-projects/Unit-converter.git](https://delta-r-git.github.io/scrimba-projects/Unit-converter.git)
-
-# Navigate to the project directory
-cd scrimba-projects/Unit-converter
-
-# Open index.html in your default browser
-open index.html
-```
