@@ -15,7 +15,7 @@
 ## 📝 About
 
 * Simple NFT-site
-*Deep violet theme
+* Deep violet theme
 
 ---
 
