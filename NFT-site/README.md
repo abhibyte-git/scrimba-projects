@@ -1,19 +1,35 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Password Generator
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+> A simple webpage of a NFT site
+
+---
+
+## 🔗 Live Demo
+
+👉 [Project Link](https://abhibyte-git.github.io/scrimba/NFT-site/)
+
+---
+
+## 📝 About
+
+* Simple NFT-site
+*Deep violet theme
+
+---
+
+## 🛠️ Built With
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🙏 Acknowledgments
+
+- [Scrimba](https://scrimba.com) — Shoutout to the platform
+- Still learning — open to feedback and suggestions
+
 
 Happy Coding!
