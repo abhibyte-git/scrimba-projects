@@ -6,7 +6,7 @@ npm start
 ```
 ## 🔗 Live Demo
 
-👉 [Project Link](https://abhibyte-git.github.io/scrimba/portfolio/)
+👉 [Project Link](https://abhibyte-git.github.io/scrimba-projects/portfolio/)
 
 ## About Scrimba
 
