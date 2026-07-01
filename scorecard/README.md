@@ -6,7 +6,7 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project](https://abhibyte-git.github.io/scrimba/scorecard/)
+👉 [View Project](https://abhibyte-git.github.io/scrimba-projects/scorecard/)
 
 ---
 
