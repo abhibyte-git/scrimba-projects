@@ -8,7 +8,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Project Link](https://abhibyte-git.github.io/scrimba/NFT-site/)
+👉 [Project Link](https://abhibyte-git.github.io/scrimba-projects/NFT-site/)
 
 ---
 
