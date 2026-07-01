@@ -11,7 +11,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Project Live](https://abhibyte-git.github.io/scrimba/unitconvertor/)
+👉 [Project Live](https://abhibyte-git.github.io/scrimba-projects/unitconvertor/)
 
 ---
 
