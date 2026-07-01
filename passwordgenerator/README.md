@@ -8,7 +8,7 @@
 
 ## 🔗 Live Demo
 
-👉 [Project Link](https://abhibyte-git.github.io/scrimba/passwordgenerator/)
+👉 [Project Link](https://abhibyte-git.github.io/scrimba-projects/passwordgenerator/)
 
 ---
 
