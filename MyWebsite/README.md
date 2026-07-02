@@ -4,8 +4,10 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
+## 🔗 Live Demo
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+👉 [Project Link](https://abhibyte-git.github.io/scrimba-projects/MyWebsite/)
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
