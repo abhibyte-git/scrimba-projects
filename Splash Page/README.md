@@ -1,19 +1,34 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Scrimbafy-splash-page
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+[![GitHub license](https://img.shields.io/github/license/Delta-R-git/scrimba-projects?style=flat-square)](https://github.com/Delta-R-git/scrimba-projects/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)](#)
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could go further with one of our advanced courses 🚀
+>A responsive landing page and sign-up form built with HTML and CSS as part of a frontend learning project.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+---
 
-Happy Coding!
+## 🔗 Live Demo
+
+👉 [View Project Live](https://abhibyte-git.github.io/scrimba-projects/SplashPage/)
+
+---
+
+## 📝 About
+
+*  Scrimbafy Me! is a responsive frontend web project designed to mimic an iconic Scrimba-style avatar submission page. It features a clean, two-column layout on desktop, custom form elements, and responsive typography using modern CSS Flexbox and media queries.
+
+---
+
+## 🛠️ Built With
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🙏 Acknowledgments
+
+- [Scrimba](https://scrimba.com) — Shoutout to the platform
+- Still learning — open to feedback and suggestions
+
