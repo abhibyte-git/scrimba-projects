@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 
-👉 [View Project Live](https://abhibyte-git.github.io/scrimba-projects/SplashPage/)
+👉 [View Project Live](https://abhibyte-git.github.io/scrimba-projects/Splash%Page/)
 
 ---
 
