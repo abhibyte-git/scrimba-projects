@@ -4,6 +4,7 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
+👉 [View Project Live](https://abhibyte-git.github.io/scrimba-projects/blackjack/)
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
